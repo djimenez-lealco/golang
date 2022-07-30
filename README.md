@@ -1,2 +1,2 @@
-# golang-workers
-Ejemplo de Workers en Golang
+# Pruebas con golang
+Ejemplo en Golang
