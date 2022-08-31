@@ -1,0 +1,9 @@
+go 1.18
+
+use (
+	./identity
+	./infraestructureModules/AuroraPostgresAdapter
+	./infraestructureModules/CognitoAdapter
+	./infraestructureModules/DinamoDbAdapter
+	./infraestructureModules/SaludarAdapter
+)
